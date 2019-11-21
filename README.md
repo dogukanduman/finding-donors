@@ -1,3 +1,6 @@
+Report is [here](./finding_donors.ipynb). If you can not view the report, you can download project and check the **report.html** with a browser.
+
+
 # Content: Supervised Learning
 ## Project: Finding Donors for CharityML
 
